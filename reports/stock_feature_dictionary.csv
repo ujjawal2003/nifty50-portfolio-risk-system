@@ -1,0 +1,27 @@
+Feature,Definition,Category
+Return_1D,1-day percentage return,Price
+Return_5D,5-day percentage return,Momentum
+Return_10D,10-day percentage return,Momentum
+Return_20D,20-day percentage return,Momentum
+Return_60D,60-day percentage return,Momentum
+Volatility_5D,Rolling 5-day return standard deviation,Risk
+Volatility_20D,Rolling 20-day return standard deviation,Risk
+Volatility_60D,Rolling 60-day return standard deviation,Risk
+MA_20D,20-day moving average of Close,Trend
+MA_50D,50-day moving average of Close,Trend
+MA_200D,200-day moving average of Close,Trend
+Price_to_MA_20D,Close divided by 20-day MA,Trend
+Price_to_MA_50D,Close divided by 50-day MA,Trend
+Price_to_MA_200D,Close divided by 200-day MA,Trend
+MA_50_to_MA_200,50-day MA divided by 200-day MA,Trend
+Drawdown_20D,Current Close relative to trailing 20-day high,Drawdown
+Drawdown_60D,Current Close relative to trailing 60-day high,Drawdown
+Drawdown_200D,Current Close relative to trailing 200-day high,Drawdown
+Volume_MA_20D,20-day average volume,Liquidity
+Volume_Ratio_20D,Current volume divided by 20-day average,Liquidity
+Volume_Change_1D,1-day percentage change in volume,Liquidity
+Intraday_Range,(High-Low)/Close,Risk
+ATR_14D_Pct,14-day average true range divided by Close,Risk
+RSI_14D,14-day relative strength index,Momentum
+Market_Return,Equal-weight average stock return on the date,Market
+Rolling_Beta_60D,60-day rolling beta to the dataset market proxy,Market

@@ -1,0 +1,16 @@
+Metric,Value
+Raw rows,287310
+Raw columns,25
+Unique tickers,49
+Unique sectors,13
+Minimum date,1999-01-01
+Maximum date,2026-01-30
+Duplicate rows,0
+Duplicate Date+Ticker,0
+Missing core OHLC rows,0
+Non-positive price rows,47
+Invalid OHLC rows,196
+Extreme return rows (>30%),94
+Confirmed spike-reversal rows,33
+Rows removed from clean dataset,228
+Clean rows,287082
