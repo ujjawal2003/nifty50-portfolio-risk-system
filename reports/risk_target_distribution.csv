@@ -1,0 +1,4 @@
+Target,Threshold,Horizon_Trading_Days,Known_Observations,Positive_Events,Negative_Events,Positive_Rate_Percent
+Target_DD_3Pct_10D,3%,10,5618,1200,4418,21.35991456034176
+Target_DD_5Pct_10D,5%,10,5618,533,5085,9.487362050551798
+Target_DD_10Pct_10D,10%,10,5618,100,5518,1.7799928800284799
