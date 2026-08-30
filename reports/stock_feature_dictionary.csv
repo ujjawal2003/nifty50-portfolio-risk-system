@@ -24,4 +24,4 @@ Intraday_Range,(High-Low)/Close,Risk
 ATR_14D_Pct,14-day average true range divided by Close,Risk
 RSI_14D,14-day relative strength index,Momentum
 Market_Return,Equal-weight average stock return on the date,Market
-Rolling_Beta_60D,60-day rolling beta to the dataset market proxy,Market
+Rolling_Beta_60D,60-day rolling beta to dataset market proxy,Market

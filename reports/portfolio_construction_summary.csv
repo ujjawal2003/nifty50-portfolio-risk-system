@@ -1,0 +1,15 @@
+Metric,Value
+Portfolio dates,6770
+First portfolio date,1999-01-04 00:00:00+05:30
+Last portfolio date,2026-01-30 00:00:00+05:30
+Minimum available stocks,1
+Median available stocks,46.0
+Maximum available stocks,49
+Dates with >=45 stocks,4478
+Dates with >=40 stocks,5628
+Mean daily portfolio return,0.0013192200781631611
+Daily portfolio volatility,0.016179261764454438
+Final cumulative portfolio value,3348.0142448112197
+Maximum historical drawdown,-0.5589826751218099
+Maximum stock HHI,1.0
+Maximum sector HHI,1.0
