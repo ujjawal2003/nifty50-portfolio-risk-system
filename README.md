@@ -41,7 +41,9 @@ Final Out-of-Sample Evaluation
         ↓
 Portfolio Risk Early Warning
 ```
+
 ---
+
 ## 🎯 Problem Statement
 
 The project answers the following question:
@@ -137,7 +139,6 @@ Volatility_5D
 Volatility_20D
 Volatility_60D
 
-
 ---
 ## 🔐 Leakage Prevention
 
@@ -183,8 +184,8 @@ threshold selection
 hyperparameter tuning
 
 This provides a more realistic estimate of out-of-sample performance.
-
 ---
+
 ## 🤖 Models
 
 The modelling workflow evaluates multiple classification approaches.
@@ -358,8 +359,8 @@ Precision
 Recall
 F1
 Risk Decile Concentration
-
 ---
+
 ## 📐 Calibration
 
 The model's probability outputs are also evaluated for calibration.
@@ -397,8 +398,8 @@ Higher Risk
 Highest Risk
 
 A useful risk-ranking model should ideally show increasing event concentration as predicted risk increases.
-
 ---
+
 ## 📅 Stability Analysis
 
 Model performance is also evaluated across chronological portions of the test period.
@@ -476,6 +477,7 @@ nifty50-portfolio-risk-system/
 │
 ├── README.md
 └── requirements.txt
+---
 
 ---
 ## 🧪 Notebook Workflow
@@ -495,8 +497,8 @@ Notebook	Purpose
 09	Hyperparameter tuning
 10	SHAP explainability
 11	Final out-of-sample evaluation
-
 ---
+
 ## 🛠️ Technologies Used
 
 The project is implemented primarily in Python.
@@ -535,8 +537,8 @@ and continue through:
 11_final_model_evaluation.ipynb
 
 The notebooks generate intermediate datasets, model artifacts and reports required by later stages.
-
 ---
+
 ## 🔬 Research Methodology
 
 The project follows the following research discipline:
@@ -693,4 +695,4 @@ Explainability: SHAP
 Final Evaluation: Untouched chronological test period
 
 Status: ✅ Complete
-```
+
